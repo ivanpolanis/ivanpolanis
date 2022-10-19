@@ -1,7 +1,7 @@
 ## Hello word!
 Hi, my name is Iván. I'm a developer from La Plata, Argentina. I'm actually studying Computer Engineering at [UNLP][unlp]
 <br/>
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanpolanis)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanpolanis)]
 
 [unlp]: https://www.google.com
 
