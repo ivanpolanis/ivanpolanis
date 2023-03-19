@@ -8,7 +8,7 @@ I believe that working in a team is the best way to learn and improve as a devel
 
 ## Contact
 
-If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-valent%C3%ADn-polanis-65b525200/) or email me at [polanisivan@gmail.com](mailto:youremail@example.com).
+If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/ivan-valentin-polanis/) or email me at [polanisivan@gmail.com](mailto:youremail@example.com).
 
 Thanks for visiting my GitHub profile!
 
